@@ -1,0 +1,24 @@
+{
+  "name": "Hazker",
+  "version": "1.0.0",
+  "description": "start",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VecroKatas/hazker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VecroKatas/hazker/issues"
+  },
+  "homepage": "https://github.com/VecroKatas/hazker#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.1",
+    "bootstrap": "^4.5.3"
+  }
+}
